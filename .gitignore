@@ -1,0 +1,20 @@
+node_modules
+.env
+.gitignore
+# Node.js
+node_modules/
+.env
+*.log
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Database
+*.sqlite
+*.db
+dump/
+
+# Optional: build artifacts
+dist/
